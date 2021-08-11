@@ -1,3 +1,11 @@
+# npm run
+clone the app from github and just install packages and run the build
+
+
+
+
+
+
 # COVID Tracker
 
 - Modify wireframe DONE
